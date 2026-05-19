@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "medical-agent": "app.graph:graph"
+  }
+}
