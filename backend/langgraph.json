@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "medical_workflow": "./app/graph.py:graph"
+  }
+}
